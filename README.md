@@ -32,5 +32,5 @@ I specialize in developing scalable web applications that integrate powerful bac
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasanth-blue)](https://www.linkedin.com/in/vasanth5278)  
-[![GitHub](https://img.shields.io/badge/GitHub-Vasanth5278-black)](https://github.com/vasanth5278)  
+
 
