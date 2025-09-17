@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Vasanth
 
-<!--
-**vasanth-sakthivel-hub/vasanth-sakthivel-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | 💻 Java | 🌐 React | ☁️ Spring Boot  
 
-Here are some ideas to get you started:
+I specialize in developing scalable web applications that integrate powerful backend architectures with intuitive, user-friendly interfaces.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Aiming to grow as a Full-Stack Developer with strong backend and frontend expertise
+- 🌱 Continuously learning Cloud, Microservices, and DevOps practices
+- 👯 I’m looking to collaborate on **Full-Stack Web Apps**
+- 💬 Ask me about **Java, Spring Boot, React, MySQL**
+- 📫 Reach me: **vasanthoff77@gmail.com**
+- ⚡ Fun fact: I love solving real-world problems with code  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Java, Spring Boot, Node.js  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, IntelliJ, Postman  
+
+---
+
+## 📌 Projects
+- 🏥 **Hospital Management System** (Spring Boot + MySQL + Thymeleaf)  
+- 👨‍💼 **Employee Management System** (Spring Boot + MySQL + JPA)  
+- 🚌 **Bus Ticket Reservation System** (Spring Boot + Spring Security + Thymeleaf)  
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vasanth-blue)](https://www.linkedin.com/in/vasanth5278)  
+[![GitHub](https://img.shields.io/badge/GitHub-Vasanth5278-black)](https://github.com/vasanth5278)  
+
